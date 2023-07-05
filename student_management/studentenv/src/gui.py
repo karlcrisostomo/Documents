@@ -7,7 +7,7 @@ window.geometry('500x500')
 
 def quit_btn():
      window.destroy()
-     print('fuck you')
+     print('karl')
 
 button = ctk.CTkButton(window, command=quit_btn, text='Quit').pack()
 
